@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Take Test",
+      "day": "Monday",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Debugging of the project at CUEA",
+      "day": "Monday 25th",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
